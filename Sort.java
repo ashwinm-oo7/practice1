@@ -6,7 +6,7 @@ public class Sort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr=new int[]{78, 34, 1, 3, 90, 34, -1, -4, 6, 55, 20, -65};
-		System.out.println("Array elements àfter sorting");
+		System.out.println("Array elements after sorting : : : : : ");
 			
 		for(int i=0; i<arr.length; i++)
 		{
